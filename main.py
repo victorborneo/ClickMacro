@@ -28,6 +28,7 @@ def get_new_macro(macros: dict) -> None:
     bind = key
     print(f"Bind button: {bind}")
 
+    time.sleep(0.1)
     print("Return to original position after click? (y/n)")
     while key not in ('y', 'n'):
         key = keyboard.read_key()
