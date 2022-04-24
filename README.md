@@ -1,5 +1,6 @@
 ClickMacro
 ===================
+P.S.: I did this for playing Clash Royale on Vysor lol 
 
 # Features <h1>
 - Make your cursor click anywhere on the screen with a single button.
